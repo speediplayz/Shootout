@@ -1,0 +1,10 @@
+#gameCanvas{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background-color: #43523d; /*rgb(91, 220, 245); #c7f0d8;*/
+}
+
+body{
+	background-color: rgb(32, 32, 32);
+}
